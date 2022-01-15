@@ -27,12 +27,14 @@ I am a budding developer currently in Tucson, AZ actively seeking oppurtunities.
   ![JQuery](http://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br>
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
