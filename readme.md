@@ -1,7 +1,7 @@
 ## Hi there I am Rick 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-rickgoshen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rickgoshen/)
-[![Twitter Badge](https://img.shields.io/badge/-@rickgoshen-blue?style=flat&logo=twitter)](https://twitter.com/RickGoshen)
+[![Twitter Badge](https://img.shields.io/badge/-@rickgoshen-black?style=flat&logo=twitter)](https://twitter.com/RickGoshen)
 [![Facebook Badge](https://img.shields.io/badge/-@rgoshen-blue?style=flat&logo=facebook)](https://www.facebook.com/rick.goshen/)
 [![Gmail Badge](https://img.shields.io/badge/-rick.goshen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rick.goshen@gmail.com)](mailto:rick.goshen@gmail.com)
 [![GitHub Geraldo](https://img.shields.io/github/followers/rgoshen?label=follow&style=social)](https://github.com/rgoshen)
