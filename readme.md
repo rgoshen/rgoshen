@@ -16,11 +16,11 @@ I am a budding developer currently in Tucson, AZ actively seeking oppurtunities.
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## Languages/Frameworks/Tools
+## Languages/Frameworks/Tools/Operating Systems
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 <br>
  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 <br>
@@ -35,10 +35,21 @@ I am a budding developer currently in Tucson, AZ actively seeking oppurtunities.
 <br>
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ <br>
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ_Idea-000000?style=flat-square&logo=intellij-idea)
+ <br>
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+  ![MacOS](https://img.shields.io/badge/-Apple_MacOS-000000?style=flat-square&logo=apple)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=ubuntu)
+  ![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat-square&logo=manjaro)
+  ![Fedora](https://img.shields.io/badge/-Fedora-000000?style=flat-square&logo=fedora)
+ 
 
 ## Github Stats
 
