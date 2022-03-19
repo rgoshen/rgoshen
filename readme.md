@@ -11,10 +11,7 @@ I am a budding developer currently in Tucson, AZ actively seeking oppurtunities.
 
 ## 🌱 I’m currently learning
 
-![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
 ## Languages/Frameworks/Tools/Operating Systems
 
