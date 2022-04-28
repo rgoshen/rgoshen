@@ -7,11 +7,7 @@
 [![GitHub Geraldo](https://img.shields.io/github/followers/rgoshen?label=follow&style=social)](https://github.com/rgoshen)
 
 
-I am a budding developer currently in Tucson, AZ actively seeking oppurtunities.
-
-## 🌱 I’m currently learning
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+I am a Full-stack Engineer currently in Tucson, AZ.  I am currently a member of an awesome known as Flexion, Inc.
 
 ## Languages/Frameworks/Tools/Operating Systems
 
