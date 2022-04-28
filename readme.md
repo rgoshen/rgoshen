@@ -7,7 +7,7 @@
 [![GitHub Geraldo](https://img.shields.io/github/followers/rgoshen?label=follow&style=social)](https://github.com/rgoshen)
 
 
-I am a Full-stack Engineer currently in Tucson, AZ.  I am currently a member of an awesome known as Flexion, Inc.
+I am a Full-stack Engineer for Flexion, Inc. currently living in Tucson, AZ.  I am a member of the awesome USTC team.
 
 ## Languages/Frameworks/Tools/Operating Systems
 
