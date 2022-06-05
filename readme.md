@@ -1,5 +1,7 @@
 ## Hi there I am Rick 👋
 
+<a href="https://app.daily.dev/rgoshen"><img src="https://api.daily.dev/devcards/2510d31499a44fb7bac7b85afc3fa25a.png?r=w88" width="400" alt="Richard Goshen's Dev Card"/></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-rickgoshen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rickgoshen/)
 [![Twitter Badge](https://img.shields.io/badge/-@rickgoshen-black?style=flat&logo=twitter)](https://twitter.com/RickGoshen)
 [![Facebook Badge](https://img.shields.io/badge/-@rgoshen-black?style=flat&logo=facebook)](https://www.facebook.com/rick.goshen/)
