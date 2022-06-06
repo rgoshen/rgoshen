@@ -1,13 +1,12 @@
 ## Hi there I am Rick 👋
 
+I am a Full-stack Engineer for Flexion, Inc. currently living in Tucson, AZ.  I am a member of the awesome USTC team.
+
 [![Linkedin Badge](https://img.shields.io/badge/-rickgoshen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rickgoshen/)
 [![Twitter Badge](https://img.shields.io/badge/-@rickgoshen-black?style=flat&logo=twitter)](https://twitter.com/RickGoshen)
 [![Facebook Badge](https://img.shields.io/badge/-@rgoshen-black?style=flat&logo=facebook)](https://www.facebook.com/rick.goshen/)
 [![Gmail Badge](https://img.shields.io/badge/-rick.goshen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rick.goshen@gmail.com)](mailto:rick.goshen@gmail.com)
 [![GitHub Geraldo](https://img.shields.io/github/followers/rgoshen?label=follow&style=social)](https://github.com/rgoshen)
-
-
-I am a Full-stack Engineer for Flexion, Inc. currently living in Tucson, AZ.  I am a member of the awesome USTC team.
 
 ## Languages/Frameworks/Tools/Operating Systems
 
