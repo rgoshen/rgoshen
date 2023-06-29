@@ -1,6 +1,6 @@
 ## Hi there I am Rick 👋
 
-I am a Full-stack Engineer for Flexion, Inc. currently living in Tucson, AZ.  I am a member of the awesome USTC team.
+I am a Full-stack Engineer for Flexion, Inc. currently living in Tucson, AZ.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rickgoshen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rickgoshen/)
 [![Twitter Badge](https://img.shields.io/badge/-@rickgoshen-black?style=flat&logo=twitter)](https://twitter.com/RickGoshen)
